@@ -86,6 +86,10 @@ h1, h2, h3, h4, h5, h6 {
   box-shadow: 10px 2px 15px rgba(133, 177, 11, 0.1);
 }
 
+#header.header-scrolled {
+  top: 0;
+}
+
 #header .logo a {
   font-size: 30px;
   margin: 0;
